@@ -109,3 +109,10 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+.card{
+  padding: 1rem;
+  margin: 1rem;
+  background-color: rgb(4,26,49);
+  border-radius: 2rem;;
+}
