@@ -4,9 +4,9 @@ function App() {
   return (
     <>
       <h1>CineSpoilers</h1>
-      <Card/>
-      <Card/>
-      <Card/>
+      <Card title="Miguel"/>
+      <Card title="Elliot"/>
+      <Card title="Fer"/>
     </>
   )
 }

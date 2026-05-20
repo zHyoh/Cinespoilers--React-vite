@@ -1,8 +1,8 @@
-const Card = () => {
+const Card = ({title}) => {
     return (
         <div className="card">
             <header>
-                Card Title
+                {title}
             </header>
             <div>
                 Card Body
